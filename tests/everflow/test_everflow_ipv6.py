@@ -944,3 +944,4 @@ class TestEgressEverflowIPv6(EverflowIPv6Tests):
 
     def mirror_type(self):
         return "egress"
+
